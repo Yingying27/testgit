@@ -17,7 +17,7 @@ MainWindow::MainWindow(QWidget *parent) :
     QPalette palette2=ui->lineEdit->palette();
     palette2.setColor(QPalette::Disabled,QPalette::Base,Qt::blue);
     ui->lineEdit->setPalette(palette2);//显示格式
-
+//6666666
 }
 
 MainWindow::~MainWindow()
